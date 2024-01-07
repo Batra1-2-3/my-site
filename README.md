@@ -2,7 +2,8 @@
 
 This is a simple portfolio website created using HTML and CSS.
 
-![Portfolio Website Screenshot](screenshot.png)
+![image](https://github.com/Batra1-2-3/my-site/assets/109741876/384f30df-35b6-4e6a-8f51-ba3767010cfa)
+
 
 ## Description
 
